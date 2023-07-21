@@ -1,4 +1,4 @@
-# Problem-Solving-Test-Gits-Intern
+# Problem Solving Test Gits Intern
 Repository untuk jawaban soal Problem Solving Test Gits Intern
 
 ## Screenshot Hasil Program
